@@ -5,8 +5,6 @@ The system processes a video feed of a parking lot, identifies available parking
 
 Features:
 
--Automatically detects parking spaces.
-
 -Displays the count of free and occupied parking spaces in real-time.
 
 -Can be used with any parking lot video with predefined parking space coordinates.
